@@ -6,5 +6,5 @@
 # Nama : Yoga Priandani Sulton
 # Kelas : XIIRPL5
 # No. Urut : 39
-# NIS : 44641362
+# NIS : 4464/1362.070
 # Nama Sekolah : SMK Telkom Malang
